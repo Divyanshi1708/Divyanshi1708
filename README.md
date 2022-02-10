@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshi1708&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshi1708" /> </p>
 
+<img alt="Night Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" align="right" style="max-width: 70%;">
+
 - 🌱 I’m currently learning **Full Stack Web Development and DSA.**
 
 - 📫 How to reach me **dagarwal1708@gmail.com**
