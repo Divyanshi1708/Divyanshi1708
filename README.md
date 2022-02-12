@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyanshi Agarwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Divyanshi Agarwal</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshi1708&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshi1708" /> </p>
